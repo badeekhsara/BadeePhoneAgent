@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Badee Phone Agent</string>
+    <string name="accessibility_service_name">Badee Phone Agent</string>
+    <string name="accessibility_description">ينفّذ أوامر الهاتف التي يرسلها المالك، مثل الضغط والتمرير والرجوع وقراءة عناصر الشاشة. لا يعمل قبل تفعيلك الصريح له.</string>
+    <string name="dashboard_title">وكيل هاتف بديع</string>
+    <string name="dashboard_subtitle">طبقة التحكم المحلية الآمنة على هاتفك</string>
+    <string name="permission_title">صلاحية التحكم</string>
+    <string name="permission_enabled">مفعّلة — الوكيل جاهز لاستقبال الأوامر المحلية</string>
+    <string name="permission_disabled">غير مفعّلة — افتح إعدادات إمكانية الوصول وفعّل الخدمة</string>
+    <string name="server_title">خادم الأوامر المحلي</string>
+    <string name="server_running">يعمل على 127.0.0.1:%1$d</string>
+    <string name="server_stopped">متوقف حتى تُفعّل خدمة إمكانية الوصول</string>
+    <string name="open_accessibility">فتح إعدادات إمكانية الوصول</string>
+    <string name="refresh_status">تحديث الحالة</string>
+    <string name="copy_token">نسخ رمز الاقتران</string>
+    <string name="rotate_token">إنشاء رمز اقتران جديد</string>
+    <string name="token_copied">تم نسخ رمز الاقتران</string>
+    <string name="token_rotated">تم إبطال الرمز السابق وإنشاء رمز جديد</string>
+    <string name="security_note">يستمع التطبيق داخل الهاتف فقط. لا يمكن لأي جهاز خارجي الوصول إليه قبل إنشاء قناة اقتران صريحة، وكل أمر يتطلب الرمز السري ويُسجّل محليًا.</string>
+    <string name="audit_title">آخر الإجراءات</string>
+    <string name="audit_empty">لا توجد أوامر منفّذة بعد.</string>
+</resources>
